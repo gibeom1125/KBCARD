@@ -18,4 +18,6 @@ _Case 2) 오전 8시에 당일 저녁시간(18시) 예보 받는 경우
 
 활용 툴 : Python
 
-데이터 출처 : 기상청 날씨누리 https://www.weather.go.kr/weather/main.jsp
+데이터 출처 : 기상자료 개방포털 https://data.kma.go.kr/cmmn/main.do
+
+사용 데이터 정보 : 서울 지역(초단기 실황 + 단기예보) , 서울지역 좌표 정보(File 5_ 참조)
