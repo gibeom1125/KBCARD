@@ -12,6 +12,10 @@ File 2) 단기예보 데이터 적중률 분석 (+4시간 예측에 대한 적�
 
 File 3) 단기예보 데이터 적중률 분석 (원본)
 
+s_real : 초단기 실황 데이터 (전처리 후 파일)
+
+s_forecast : 단기 예보 데이터 (전처리 후 파일)
+
 활용 툴 : Python
 
 데이터 출처 : 기상자료 개방포털 https://data.kma.go.kr/cmmn/main.do
